@@ -1,7 +1,6 @@
 local SlowDialogs = SlowDialogsGlobal
 
 SlowDialogs.displayName = "Slow Dialogs"
-SlowDialogs.author = "Shinni"
 
 SlowDialogs.delayOption = "Delay"
 SlowDialogs.delayTooltip = "Delay between two characters in milliseconds."

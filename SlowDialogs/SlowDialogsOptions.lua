@@ -3,8 +3,8 @@ local panelData = {
 	type = "panel",
 	name = "Slow Dialogs",
 	displayName = SlowDialogs.displayName,
-	author = SlowDialogs.author,
-	version = "1.9.11",
+	author = "Shinni",
+	version = "1.10",
 	registerForRefresh = true,
 	registerForDefaults = false,
 }
