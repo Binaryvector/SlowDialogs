@@ -4,7 +4,7 @@ local panelData = {
 	name = "Slow Dialogs",
 	displayName = SlowDialogs.displayName,
 	author = "Shinni",
-	version = "1.10",
+	version = "1.11",
 	registerForRefresh = true,
 	registerForDefaults = false,
 }
