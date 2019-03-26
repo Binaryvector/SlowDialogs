@@ -1,6 +1,6 @@
 ## Title: SlowDialogs
 ## Author: Shinni
-## Version: 1.11
+## Version: 1.12
 ## APIVersion: 100026
 ## SavedVariables: SlowDialogs_SavedVariables
 ## OptionalDependsOn: LibAddonMenu-2.0

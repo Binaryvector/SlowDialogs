@@ -4,6 +4,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 The French localization of this addon was provided by lexo1000 ( https://www.esoui.com/forums/member.php?u=31558 )
+The Russian localization of this addon was provided by calisto ( https://www.esoui.com/forums/member.php?u=47859 )
 
 The library "LibAddonMenu" is © 2016 Ryan Lakanen (Seerah), used under The Artistic License 2.0:
 see libs/LibAddonMenu-2.0/LICENSE
