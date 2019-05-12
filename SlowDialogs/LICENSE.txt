@@ -7,9 +7,9 @@ The French localization of this addon was provided by lexo1000 ( https://www.eso
 The Russian localization of this addon was provided by calisto ( https://www.esoui.com/forums/member.php?u=47859 )
 
 The library "LibAddonMenu" is © 2016 Ryan Lakanen (Seerah), used under The Artistic License 2.0:
-see libs/LibAddonMenu-2.0/LICENSE
+see libs/LibAddonMenu-2.0/LibAddonMenu-2.0/LICENSE
 
-The library "LibStub" is Public Domain, see libs/LibStub/LibStub.lua
+The library "LibStub" is Public Domain, see libs/LibAddonMenu-2.0/LibStub/LibStub.lua
 
 
 This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.

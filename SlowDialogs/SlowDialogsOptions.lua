@@ -4,7 +4,7 @@ local panelData = {
 	name = "Slow Dialogs",
 	displayName = SlowDialogs.displayName,
 	author = "Shinni",
-	version = "1.12",
+	version = "1.13",
 	registerForRefresh = true,
 	registerForDefaults = false,
 }
@@ -48,9 +48,7 @@ local optionsTable = {
 	},
 }
 
-local LAM = LibStub("LibAddonMenu-2.0")
-
 function SlowDialogsGlobal.InitOptions()
-	LAM:RegisterAddonPanel("SlowDialogsControl", panelData)
-	LAM:RegisterOptionControls("SlowDialogsControl", optionsTable)
+	LibAddonMenu2:RegisterAddonPanel("SlowDialogsControl", panelData)
+	LibAddonMenu2:RegisterOptionControls("SlowDialogsControl", optionsTable)
 end
